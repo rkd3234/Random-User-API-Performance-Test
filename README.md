@@ -4,7 +4,7 @@
 This project shows how to find out load and stress test strategy using JMeter
 
 ## Technology used:
-- JMeter
+- ```JMeter```
 
 ## API documentation:
 https://random-data-api.com/api/v2/users
